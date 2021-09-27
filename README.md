@@ -1,6 +1,6 @@
 ## [PREDATOR: Registration of 3D Point Clouds with Low Overlap](https://arxiv.org/abs/2011.13005)
 
-An informal PyTorch implementation of PREDATOR based on KPConv. 
+An inofficial PyTorch implementation of PREDATOR based on KPConv. 
 
 The code has been tested on Ubuntu 16.4, Python 3.7, PyTorch (1.7.1+cu101),
 torchvision (0.8.2+cu101), GCC 5.4.0 and Open3D (0.9 or 0.13).
